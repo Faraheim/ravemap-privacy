@@ -1,0 +1,24 @@
+{
+  "name": "Ravemap",
+  "short_name": "Ravemap",
+  "description": "Psytrance and rave parties on a map.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#150f2e",
+  "theme_color": "#150f2e",
+  "icons": [
+    {
+      "src": "./favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
