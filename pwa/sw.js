@@ -1,4 +1,4 @@
-const CACHE = 'ravemap-web-v2';
+const CACHE = 'ravemap-web-v3';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
